@@ -1,0 +1,20 @@
+C:\Users\thodo\Desktop\www\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.csproj.CoreCompileInputs.cache
+C:\Users\thodo\Desktop\www\IndividualProjectPartA\bin\Debug\IndividualProjPartA.exe.config
+C:\Users\thodo\Desktop\www\IndividualProjectPartA\bin\Debug\IndividualProjPartA.exe
+C:\Users\thodo\Desktop\www\IndividualProjectPartA\bin\Debug\IndividualProjPartA.pdb
+C:\Users\thodo\Desktop\www\IndividualProjectPartA\obj\Debug\IndividualProjPartA.exe
+C:\Users\thodo\Desktop\www\IndividualProjectPartA\obj\Debug\IndividualProjPartA.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\IndividualProject March2021PartA_ final\IndividualProjectPartA\bin\Debug\IndividualProjPartA.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\IndividualProject March2021PartA_ final\IndividualProjectPartA\bin\Debug\IndividualProjPartA.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\IndividualProject March2021PartA_ final\IndividualProjectPartA\bin\Debug\IndividualProjPartA.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\IndividualProject March2021PartA_ final\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\IndividualProject March2021PartA_ final\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\IndividualProject March2021PartA_ final\IndividualProjectPartA\obj\Debug\IndividualProjPartA.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\IndividualProject March2021PartA_ final\IndividualProjectPartA\obj\Debug\IndividualProjPartA.pdb
+C:\Users\daykay\Downloads\www\IndividualProjectPartA\bin\Debug\IndividualProjPartA.exe.config
+C:\Users\daykay\Downloads\www\IndividualProjectPartA\bin\Debug\IndividualProjPartA.exe
+C:\Users\daykay\Downloads\www\IndividualProjectPartA\bin\Debug\IndividualProjPartA.pdb
+C:\Users\daykay\Downloads\www\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.csprojAssemblyReference.cache
+C:\Users\daykay\Downloads\www\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Downloads\www\IndividualProjectPartA\obj\Debug\IndividualProjPartA.exe
+C:\Users\daykay\Downloads\www\IndividualProjectPartA\obj\Debug\IndividualProjPartA.pdb

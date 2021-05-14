@@ -1,0 +1,14 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\το σωστό individual project part A\IndividualProjPartA\IndividualProjPartA\obj\Debug\IndividualProjPartA.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\το σωστό individual project part A\IndividualProjPartA\IndividualProjPartA\obj\Debug\IndividualProjPartA.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\το σωστό individual project part A\IndividualProjPartA\IndividualProjPartA\bin\Debug\IndividualProjPartA.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\το σωστό individual project part A\IndividualProjPartA\IndividualProjPartA\bin\Debug\IndividualProjPartA.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\το σωστό individual project part A\IndividualProjPartA\IndividualProjPartA\bin\Debug\IndividualProjPartA.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\το σωστό individual project part A\IndividualProjPartA\IndividualProjPartA\obj\Debug\IndividualProjPartA.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\το σωστό individual project part A\IndividualProjPartA\IndividualProjPartA\obj\Debug\IndividualProjPartA.pdb
+C:\Users\thodo\Desktop\www\IndividualProjPartA\bin\Debug\IndividualProjPartA.exe.config
+C:\Users\thodo\Desktop\www\IndividualProjPartA\bin\Debug\IndividualProjPartA.exe
+C:\Users\thodo\Desktop\www\IndividualProjPartA\bin\Debug\IndividualProjPartA.pdb
+C:\Users\thodo\Desktop\www\IndividualProjPartA\obj\Debug\IndividualProjPartA.csproj.CoreCompileInputs.cache
+C:\Users\thodo\Desktop\www\IndividualProjPartA\obj\Debug\IndividualProjPartA.exe
+C:\Users\thodo\Desktop\www\IndividualProjPartA\obj\Debug\IndividualProjPartA.pdb
+C:\Users\thodo\Desktop\www\IndividualProjPartA\obj\Debug\IndividualProjPartA.csprojAssemblyReference.cache
